@@ -1,0 +1,7 @@
+name: PaperConsoleHexPatch
+main: dev.rosewood.pchp.PaperConsoleHexPatch
+version: '@version@'
+api-version: '1.16'
+description: Paper console hex color patcher
+author: Esophose
+load: STARTUP
