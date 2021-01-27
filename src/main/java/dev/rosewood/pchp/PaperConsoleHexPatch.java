@@ -3,13 +3,12 @@ package dev.rosewood.pchp;
 import java.lang.reflect.Field;
 import org.bstats.bukkit.Metrics;
 import org.bukkit.Bukkit;
-import org.bukkit.event.Listener;
 import org.bukkit.plugin.java.JavaPlugin;
 
 /**
  * @author Esophose
  */
-public class PaperConsoleHexPatch extends JavaPlugin implements Listener {
+public class PaperConsoleHexPatch extends JavaPlugin {
 
     private PatchStatus status = null;
 
